@@ -78,7 +78,7 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
 > “Redefining the Norm, Rewriting the Future”
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Fun GIF" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxid2szYTduaTl4ZXBqY3JybnhidWI0NmppdDR1NGtuYmZjOGl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" width="300" alt="Fun GIF" />
 
 ---
 
