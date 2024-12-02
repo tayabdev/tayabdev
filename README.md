@@ -16,6 +16,9 @@ I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passiona
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tayab009&show_icons=true&theme=radical)](https://github.com/tayab009)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayab009&layout=compact&theme=radical)](https://github.com/tayab009?tab=repositories)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tayab009&theme=radical)](https://git.io/streak-stats)
 
 ---
