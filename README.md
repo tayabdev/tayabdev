@@ -36,8 +36,8 @@ I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passiona
 ## 🎓 Education
 
 - **Master's in Machine Learning**  
-  University of Engineering and Technology, Peshawar *(Expected Graduation: 2026  
-  Focus: Deep Learning, Generative Models, and AI Systems)*
+  University of Engineering and Technology, Peshawar *(Expected Graduation: 2026)*
+  Focus: Deep Learning, Generative Models, and AI Systems
 
 - **Bachelor's in Computer Systems Engineering**  
   University of Engineering and Technology, Peshawar *(Graduated: 2024)*  
