@@ -82,7 +82,6 @@ Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
 “Redefining the Norm, Rewriting the Future”
 
-<img src="https://media.licdn.com/dms/image/v2/C4E12AQHbxJS3jlvNYQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1576216728456?e=1737590400&v=beta&t=CP-WA_P-89izM2Er1qHhKvCcYKi3mCTHqWiP4n5GFC0" width="800" alt="Fun GIF" />
 
 ---
 
