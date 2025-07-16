@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile! 🚀  
-I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passionate about creating cutting-edge solutions.
+I'm a **Machine Learning Engineer** 🤖 and **Full-Stack Flutter Developer** 💙 passionate about building Agentic AI solutions for Automation.
 
 🌟 **Specialties**:
 - 🧠 **TensorFlow**, **ML Models Deployment** & **LLMOps** 
