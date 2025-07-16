@@ -25,8 +25,8 @@ I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passiona
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **Qd Balance App** freelance project
-- 🌱 I’m learning **RAG and GAN**
+- 🔭 I’m currently working on **Agentic AI for Automation** freelance project
+- 🌱 I have wored with **RAG and GAN**
 - 💬 Ask me about **Machine Learning Integration into Mobile Apps**
 - 📫 Reach me at: **[Email](mailto:20pwcse1867@uetpeshawar.edu.pk)**
 - ⚡ Fun fact: **Stay alone**
