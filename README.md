@@ -64,8 +64,16 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-- 🌟 [**Project 1**](https://github.com/TAYAB009/Qd-Balance-Admain-Panel): Woman Fitness App
-- 🌟 [**Project 2**](https://github.com/TAYAB009/Heart-Beat-Emergency-Flutter-ML): Heart Activity monitoring App
+- 🌟 **Project 1**: Woman Fitness App (Admin Panel for Qd Balance)  
+- 🌟 **Project 2**: Heart Activity Monitoring App using Flutter & ML  
+- 🌟 **Project 3**: Trading ChatBot Advisor  
+- 🌟 **Project 4**: Hadith Search Engine  
+- 🌟 **Project 5**: Students Emotion Analysis  
+- 🌟 **Project 6**: Plants Health Monitoring using AI  
+- 🌟 **Project 7**: Student Course Advisor  
+
+> …and many more private projects not listed here.
+
 
 Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
 
