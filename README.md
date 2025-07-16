@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀
 I'm a **Machine Learning Engineer** 🤖 and **Flutter Developer** 💙 passionate about creating cutting-edge solutions.
 
 🌟 **Specialties**:
-- 🧠 **TensorFlow**, **ML Deployment** & LLMOps 
+- 🧠 **TensorFlow**, **ML Models Deployment** & **LLMOps** 
 - 📱 ML Integration in **Mobile Apps**  
 - 🌐 Backend Deployment with **Flask**  
 - ☁️ Cloud Services: **AWS** & **Firebase**  
