@@ -64,7 +64,7 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-- 🌟 **Project 1**: Woman Fitness App (Admin Panel for Qd Balance)  
+- 🌟 **Project 1**: Woman Fitness App    
 - 🌟 **Project 2**: Heart Activity Monitoring App using Flutter & ML  
 - 🌟 **Project 3**: Trading ChatBot Advisor  
 - 🌟 **Project 4**: Hadith Search Engine  
