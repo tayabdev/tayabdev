@@ -75,7 +75,7 @@ Here are a few projects I've worked on:
 > …and projects are private URLs are not listed here.
 
 
-Check out more of my work [here](https://github.com/TAYAB009?tab=repositories).
+Check out more of my work [here](https://github.com/TAYABDev?tab=repositories).
 
 ---
 
