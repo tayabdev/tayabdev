@@ -14,11 +14,7 @@ I'm a **Machine Learning Engineer** 🤖 and **Full-Stack Flutter Developer** �
 
 ## 📊 GitHub Stats
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayabdev&theme=radical)](https://github.com/tayabdev)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tayabdev&theme=radical)](https://github.com/tayabdev)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tayabdev&theme=radical)](https://github.com/tayabdev)
+![Metrics](https://metrics.lecoq.io/tayabdev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&config.timezone=Asia%2FKarachi)
 
 ---
 
