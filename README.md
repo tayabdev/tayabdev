@@ -3,8 +3,7 @@
 
 ## Welcome to my GitHub profile! 🚀
 
-I'm **Tayab**, Founder & CEO at **[NeuroApp](https://neuroapp.pro/)**  
-Professionally, I am a **Full-Stack Machine Learning Engineer** 🤖 and **Mobile App Developer** 💙  
+I'm **Tayab**, Founder & CEO at **[NeuroApp](https://neuroapp.pro/)**  Professionally, I am a **Full-Stack Machine Learning Engineer** 🤖 and **Mobile App Developer** 💙  
 Passionate about building **Agentic AI solutions for automation**.
 
 
