@@ -65,18 +65,20 @@ Here are some of the technologies and tools I work with:
 
 Here are a few projects I've worked on:
 
-- 🌟 **Project 1**: Woman Fitness App    
-- 🌟 **Project 2**: Heart Activity Monitoring App using Flutter & ML  
-- 🌟 **Project 3**: Trading ChatBot Advisor  
-- 🌟 **Project 4**: Hadith Search Engine  
-- 🌟 **Project 5**: Students Emotion Analysis  
-- 🌟 **Project 6**: Plants Health Monitoring using AI  
-- 🌟 **Project 7**: Student Course Advisor  
+- 🌟 **Project 1**: Sabaq Guide-Educational Application for students
+- 🌟 **Project 2**: Woman Fitness App    
+- 🌟 **Project 3**: Heart Activity Monitoring App using Flutter & ML  
+- 🌟 **Project 4**: Trading Bot Advisor  
+- 🌟 **Project 5**: Hadith Search Engine  
+- 🌟 **Project 6**: Students Emotion Analysis  
+- 🌟 **Project 7**: Plants Health Monitoring using AI  
+- 🌟 **Project 8**: Student Course Advisor
+- and much more... 
 
 > …and projects are private URLs are not listed here.
 
 
-Check out more of my work [here](https://github.com/TAYABDev?tab=repositories).
+Check out more of my work [here](https://sabaqguide.com/).
 
 ---
 
