@@ -2,17 +2,15 @@
 
 
 Welcome to my GitHub profile! 🚀  
-I'm a **Machine Learning Engineer** 🤖 and **Full-Stack Flutter Developer** 💙 passionate about building Agentic AI solutions for Automation.
+I'm a **Fullstack Machine Learning Engineer** 🤖 and **Mobile App Developer** 💙 passionate about building Agentic AI solutions for Automation.
 
 🌟 **Specialties**:
 - 🧠 **TensorFlow**, **ML Models Deployment** & **LLMOps** 
 - 📱 ML Integration in **Mobile Apps**  
-- 🌐 Backend Deployment with **Flask**  
+- 🌐 Backend Deployment with **FastAPI, Flask & NodeJs**  
 - ☁️ Cloud Services: **AWS** & **Firebase**  
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayabdev&theme=radical)](https://github.com/tayabdev)
@@ -36,8 +34,8 @@ I'm a **Machine Learning Engineer** 🤖 and **Full-Stack Flutter Developer** �
 ## 🎓 Education
 
 - **Master's in Machine Learning**  
-  University of Engineering and Technology, Peshawar *(Expected Graduation: Feb-2026)*  
-  **Focus:** Deep Learning, Generative Models, and AI Systems
+  University of Engineering and Technology Peshawar, Pakistan
+  **Focus:** Deep Learning, Generative Models, RAG Systems, and AI Systems
 
 - **Bachelor's in Computer Systems Engineering**  
   University of Engineering and Technology, Peshawar *(Graduated: 2024)*  
