@@ -1,8 +1,12 @@
 # Hi there <img src="https://user-images.githubusercontent.com/30992818/109906379-5aeb8a80-7cdb-11eb-821f-5b7192e8a051.gif" alt="Hi" width="24"/> 
 
 
-Welcome to my GitHub profile! 🚀  
-I'm a **Fullstack Machine Learning Engineer** 🤖 and **Mobile App Developer** 💙 passionate about building Agentic AI solutions for Automation.
+## Welcome to my GitHub profile! 🚀
+
+I'm **Tayab**, Founder & CEO at **[NeuroApp](https://neuroapp.pro/)**  
+Professionally, I am a **Full-Stack Machine Learning Engineer** 🤖 and **Mobile App Developer** 💙  
+Passionate about building **Agentic AI solutions for automation**.
+
 
 🌟 **Specialties**:
 - 🧠 **TensorFlow**, **ML Models Deployment** & **LLMOps** 
